@@ -29,7 +29,7 @@ A structured repository documenting my journey of learning Data Structures and A
 
 text
 src/
-└── linkedlist/
+└── datastructures.linkedlist/
 ├── singly/
 ├── doubly/
 ├── circular/

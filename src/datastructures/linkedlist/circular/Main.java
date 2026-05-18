@@ -1,4 +1,4 @@
-package linkedlist.circular;
+package datastructures.linkedlist.circular;
 
 
 public class Main {

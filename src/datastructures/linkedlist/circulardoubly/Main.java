@@ -1,4 +1,4 @@
-package linkedlist.circulardoubly;
+package datastructures.linkedlist.circulardoubly;
 
 public class Main {
     static void main() {

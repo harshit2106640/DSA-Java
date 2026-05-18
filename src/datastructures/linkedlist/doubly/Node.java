@@ -1,4 +1,4 @@
-package linkedlist.doubly;
+package datastructures.linkedlist.doubly;
 
  class Node {
     int data;

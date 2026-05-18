@@ -1,4 +1,4 @@
-package linkedlist.singly;
+package datastructures.linkedlist.singly;
 
 
 ////1.	Create a Singly LinkedList having 5 nodes with values from 11 to 15

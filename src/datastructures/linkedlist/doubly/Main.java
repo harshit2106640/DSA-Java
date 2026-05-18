@@ -1,4 +1,4 @@
-package linkedlist.doubly;
+package datastructures.linkedlist.doubly;
 
 public class Main {
     static void main() {
